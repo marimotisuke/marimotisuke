@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Sou uma lifelong learner apaixonada por tecnologia e desenvolvimento pessoal. Estou constantemente em busca de novos aprendizados, novas oportunidades de desenvolvimento e sempre querendo compartilhar minhas descobertas e trocar experiências!
+
+Atualmente sou designer educacional na Trybe meu foco é produzir e melhorar conteúdos da Jornada de Soft Skills!
+
+
 <!--
 **marimotisuke/marimotisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
